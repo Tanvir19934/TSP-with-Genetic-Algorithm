@@ -13,9 +13,9 @@ The output should be:
 - The next `N+1` lines contain the coordinates of the cities visited in order, starting and ending at the same city.
 
 ## Genetic Algorithm Approach
--Initialization: Generate an initial population of possible solutions (tours).
--Selection: Select pairs of solutions from the current population to breed based on their fitness.
--Crossover: Combine pairs of solutions to produce offspring solutions.
--Mutation: Apply random changes to individual solutions to maintain genetic diversity.
--Evaluation: Calculate the fitness of each solution based on the total distance of the tour.
--Iteration: Repeat the selection, crossover, mutation, and evaluation steps until a stopping criterion is met (e.g., a fixed number of generations or a satisfactory fitness level).
+- Initialization: Generate an initial population of possible solutions (tours).
+- Selection: Select pairs of solutions from the current population to breed based on their fitness.
+- Crossover: Combine pairs of solutions to produce offspring solutions.
+- Mutation: Apply random changes to individual solutions to maintain genetic diversity.
+- Evaluation: Calculate the fitness of each solution based on the total distance of the tour.
+- Iteration: Repeat the selection, crossover, mutation, and evaluation steps until a stopping criterion is met (e.g., a fixed number of generations or a satisfactory fitness level).
