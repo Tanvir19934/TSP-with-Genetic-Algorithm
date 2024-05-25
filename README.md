@@ -6,7 +6,7 @@ This repository contains a Python implementation to solve the 3D Traveling Sales
 
 The input should be provided in a file named `input.txt`, which is formatted as follows:
 - The first line contains a strictly positive 32-bit integer `N`, indicating the number of city locations in the 3D space.
-- The next `N` lines each contain three non-negative 32-bit integers separated by a space, representing the coordinates (x, y, z) of each city.
+- The next `N` lines each contain three non-negative 32-bit integers separated by a space, representing each city's coordinates (x, y, z).
 
 The output should be:
 - The first line contains the total distance of the path.
